@@ -4,31 +4,39 @@ html{
 
 h1, h2 {
   text-align: center;
+  animation: 10s
 }
 
 body {
-  background-color: cyan
+  background-color: #1b4b99;
+}
 
+img {
+  max-width: 100%;
 }
 
 .top-title{
   font-size: 40px;
   font-variant-caps: small-caps;
+  color: #c9c899;
 }
 
 .subtitle{
   font-size: 28px;
   font-variant: small-caps;
+  color: #c9c899;
 }
 
 .main-text{
   font-size: 20px;
+  color: #dbc567;
 }
 
 .side {
   display: inline-block;
+  list-style: none;
 }
 
 .button {
-
+  width: 300px;
 }
