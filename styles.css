@@ -2,23 +2,33 @@ html{
 
 }
 
-
-
-
-body {
-
-
-}
-
-
 h1, h2 {
   text-align: center;
 }
 
-.nav-links{
+body {
+  background-color: cyan
 
 }
 
-#pro-team-links{
+.top-title{
+  font-size: 40px;
+  font-variant-caps: small-caps;
+}
+
+.subtitle{
+  font-size: 28px;
+  font-variant: small-caps;
+}
+
+.main-text{
+  font-size: 20px;
+}
+
+.side {
+  display: inline-block;
+}
+
+.button {
 
 }
